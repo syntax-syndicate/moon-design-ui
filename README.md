@@ -1,3 +1,5 @@
+This repository is deprecated! Please, consider migrating to [New Moon](https://github.com/coingaming/moon-react)
+
 # Moon Design System
 
 [![npm (scoped)](https://img.shields.io/npm/v/@heathmont/moon-core-tw)](https://www.npmjs.com/package/@heathmont/moon-core-tw)
